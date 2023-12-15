@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="163.798" height="163.667" viewBox="0 0 163.798 163.667">
+  <g id="flash_sale" data-name="flash sale" transform="translate(0.5 1.5)">
+    <g id="Group_10824" data-name="Group 10824" transform="translate(20.124 58.324)">
+      <g id="Group_5" data-name="Group 5" transform="translate(0 0)">
+        <text id="Latest_Work" data-name="Latest Work" transform="translate(58 34)" fill="#ed0c6e" font-size="38" font-family="PFBagueSansPro-Bold, PF Bague Sans Pro" font-weight="700" letter-spacing="0.021em"><tspan x="-57" y="0">FLASH</tspan></text>
+      </g>
+      <text id="SALE" transform="translate(58 76.713)" fill="#ed0c6e" font-size="49" font-family="PFBagueSansPro-Bold, PF Bague Sans Pro" font-weight="700" letter-spacing="0.021em"><tspan x="-57" y="0">SALE</tspan></text>
+    </g>
+    <path id="Path_5406" data-name="Path 5406" d="M426.125,121.514H386.239a1.186,1.186,0,0,0-1.186,1.186v2.894a1.186,1.186,0,0,0,1.186,1.186h39.886a7.846,7.846,0,0,1,7.846,7.846v88.3a13.086,13.086,0,0,1-13.086,13.086H375.708a2.653,2.653,0,0,0-.939.173l-14.13,5.4a7.887,7.887,0,0,1-5.6,0l-14.129-5.4a2.635,2.635,0,0,0-.939-.173H294.79A13.086,13.086,0,0,1,281.7,222.927v-88.3a7.846,7.846,0,0,1,7.846-7.846h39.886a1.186,1.186,0,0,0,1.186-1.186V122.7a1.186,1.186,0,0,0-1.186-1.186H289.551a13.112,13.112,0,0,0-13.112,13.112v88.3a18.352,18.352,0,0,0,18.354,18.351h44.689l13.676,5.225a13.116,13.116,0,0,0,9.36,0l13.676-5.225h44.691a18.352,18.352,0,0,0,18.351-18.351v-88.3A13.112,13.112,0,0,0,426.125,121.514Z" transform="translate(-276.439 -85.7)" fill="#ed0c6e" stroke="#f3f3f7" stroke-width="1"/>
+    <g id="Group_10823" data-name="Group 10823" transform="translate(60.29)">
+      <path id="Path_5407" data-name="Path 5407" d="M459.795,92.52l9.022-19.661a.914.914,0,0,0-.831-1.3H451.277a.915.915,0,0,1-.831-1.3l16.935-36.9a.914.914,0,0,1,.831-.533h23.379a.915.915,0,0,1,.831,1.3L482.157,56.5a.914.914,0,0,0,.831,1.3h15.746a.914.914,0,0,1,.611,1.595L461.237,93.583A.915.915,0,0,1,459.795,92.52Z" transform="translate(-447.225 -31.786)" fill="#f999c2"/>
+      <path id="Path_5405" data-name="Path 5405" d="M459.795,92.52l9.022-19.661a.914.914,0,0,0-.831-1.3H451.277a.915.915,0,0,1-.831-1.3l16.935-36.9a.914.914,0,0,1,.831-.533h23.379a.915.915,0,0,1,.831,1.3L482.157,56.5a.914.914,0,0,0,.831,1.3h15.746a.914.914,0,0,1,.611,1.595L461.237,93.583A.915.915,0,0,1,459.795,92.52Z" transform="translate(-450.362 -32.832)" fill="none" stroke="#ed0c6e" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
